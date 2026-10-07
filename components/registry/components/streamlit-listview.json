@@ -7,7 +7,7 @@
   },
   "links": {
     "github": "https://github.com/LelandGrunt/streamlit-listview",
-    "pypi": "https://pypi.org/project/streamlit-listview",
+    "pypi": "streamlit-listview",
     "demo": "https://st-listview-demo.streamlit.app",
     "docs": "https://github.com/LelandGrunt/streamlit-listview/blob/main/README.md"
   },
